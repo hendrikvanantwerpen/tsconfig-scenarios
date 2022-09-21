@@ -1,6 +1,8 @@
 composite-project/
 declarations-are-ignored/src/
+exclude-second-subdir/src/
 explicit-root-dir/
+include-one-subdir/src/
 js-sources-are-ignored/src/
 js-sources-can-be-allowed/
 sources-in-multiple-subdirs/

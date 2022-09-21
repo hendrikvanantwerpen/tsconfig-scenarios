@@ -5,5 +5,6 @@ explicit-root-dir/
 include-one-subdir/src/
 js-sources-are-ignored/src/
 js-sources-can-be-allowed/
+one-file-in-subdir/src/
 sources-in-multiple-subdirs/
 sources-in-one-subdir/src/

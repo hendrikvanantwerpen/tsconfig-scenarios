@@ -1,0 +1,7 @@
+package composite-project/
+package declarations-are-ignored/src/
+package explicit-root-dir/
+package js-sources-are-ignored/src/
+package js-sources-can-be-allowed/
+package sources-in-multiple-subdirs/
+package sources-in-one-subdir/src/

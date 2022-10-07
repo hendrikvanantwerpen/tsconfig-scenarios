@@ -9,5 +9,6 @@ nested-rootdirs/src/
 nested-rootdirs/src/core/
 nested-rootdirs/src/util/
 one-file-in-subdir/src/
+relative-import/
 sources-in-multiple-subdirs/
 sources-in-one-subdir/src/

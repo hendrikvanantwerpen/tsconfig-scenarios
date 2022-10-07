@@ -1,3 +1,4 @@
+baseurl-to-subdir/
 composite-project/
 declarations-are-ignored/src/
 exclude-second-subdir/src/
@@ -8,7 +9,12 @@ js-sources-can-be-allowed/
 nested-rootdirs/src/
 nested-rootdirs/src/core/
 nested-rootdirs/src/util/
+non-relative-single-module-remap/
+non-relative-star-remap/
+non-relative-star-remaps/
 one-file-in-subdir/src/
 relative-import/
+relative-single-module-remap/
+relative-star-remap/
 sources-in-multiple-subdirs/
 sources-in-one-subdir/src/

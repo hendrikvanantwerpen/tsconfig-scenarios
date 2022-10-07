@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "paths": {
+            "foo": ["./lib/the_foo"]
+        },
+    }
+}
